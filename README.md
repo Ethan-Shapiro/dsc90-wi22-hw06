@@ -1,2 +1,2 @@
 # dsc90-wi22-hw06
-A webpage to show 3 visualizations
+Homework 6 for History of Data Science, Winter 2022 @ UC San Diego.
